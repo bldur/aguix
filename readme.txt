@@ -2,8 +2,6 @@
 ________________________________
 From: Olav Smorholm
 Sent: 08 June 2016 17:25
-To: Werner Riegler; Arturo Tauro; Klaus Barth; Andre Augustinus; Corrado Gargiulo; Elisa Laudi; Federico Ronchetti; Federico Antinori
-Subject: ALICE computings refusal to consider GNU GuiX package manager
 
 Dear Technical Board,
 
